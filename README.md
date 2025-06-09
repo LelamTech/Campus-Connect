@@ -30,10 +30,10 @@ npm run dev
 
 ## 👥 Team
 
-- Member 1: Frontend UI
-- Member 2: Backend API
-- Member 3: Database Design
-- Member 4: App Logic & Features
+- CJ: Frontend UI
+- PIZZO: Backend API
+- KINYUA : Database Design
+- SOKILA: App Logic & Features
 | Branch Name      | Purpose                        |
 | ---------------- | ------------------------------ |
 | `main`           | Final working version          |
@@ -41,4 +41,5 @@ npm run dev
 | `backend-api`    | Auth + job/app APIs            |
 | `db-schema`      | MongoDB schema & setup         |
 | `features-logic` | Search, apply, save jobs logic |
+
 
