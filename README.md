@@ -42,3 +42,4 @@ npm run dev
 | `db-schema`      | MongoDB schema & setup         |
 | `features-logic` | Search, apply, save jobs logic |
 
+we mzee invite us to collaborate
